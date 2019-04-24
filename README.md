@@ -115,11 +115,3 @@ tmux
 ### Support and Development
 
 * More information [Beyond Team Froum Chat](https://telegram.me/joinchat/BqLVv0IDQ8GoX0irFJptog)
-
-### Our Telegram channel
-
-[@BeyondTeam](https://telegram.me/BeyondTeam)
-
-### Our Web Site:
-
-[Beyond Development Forum](https://Beyond-Dev.iR)
