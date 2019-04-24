@@ -1,4 +1,3 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -89,29 +88,3 @@ tmux
 * Send help in the group for get commands list.
 
 * You can use #, ! or / to begin all commands.
-
-## Developers
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
-
-[To0fan](https://github.com/To0fan) ([Telegram](https://telegram.me/ToOfan))
-
-[Xamarin](https://github.com/XamarinDevTeam) ([Telegram](https://telegram.me/Xamarin_Developer))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
-
-## Special thanks to
-
-[rizaumami](https://github.com/rizaumami) ([Telegram](https://telegram.me/kuncen))
- 
-[Vysheng](https://github.com/Vysheng) ([Telegram](https://telegram.me/Vysheng))
-
-* * *
-
-### Sponsor
-
-* [SenatorHost](https://senatorhost.com)
-
-### Support and Development
-
-* More information [Beyond Team Froum Chat](https://telegram.me/joinchat/BqLVv0IDQ8GoX0irFJptog)
